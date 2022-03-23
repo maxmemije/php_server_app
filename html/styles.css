@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(80, 187, 201);
+    background-image: url("background.png");
+  }
+form{
+    background-color: rgb(228, 197, 167);
+    height: 200px;
+    width: 30%;
+    justify-content: center;
+    margin:auto;
+    opacity: 0.5;
+}
+
+#historia{
+    background-color: rgb(228, 167, 228);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 600px;
+    width: 70%;
+    text-align: justify;
+    justify-content: center;
+    overflow-y:scroll;
+    scroll-padding: 10;
+    margin:auto;
+    opacity: 1;
+    padding: 2%;
+    
+}
+
+#titulo{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#login{
+    margin-top: 20%;
+    font-family: verdana;
+    padding:5%;
+}
+
+
+#foto_historia_1{
+    height: 400;
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#puerco{
+    float:left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    background-color: rgb(146, 58, 146);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    float:top;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 19px;
+    background-color: #dddddd;
+  }
+
